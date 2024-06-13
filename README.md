@@ -19,7 +19,9 @@ Multinstrumentista autodidata, toco e componho e produzo músicas, possuindo um 
 Na área da tecnolgia e das ciências exatas, estudei desde a física até os sistemas de tecnologia e programação,
 hoje atuo nas linguagens javascript e python.Tenho a proatividade como traço constante nas tarefas profissionais e do dia a dia,
  trabalho bem em equipe e sou atencioso aos desafios. 
-## Projetos Recentes
+## Atividade recente
+- Santander Bootmcamp 2024 - web backend
+- Santander Bootcamp 2024 - IA GENERATIVA 
 
 
 ## Contato
