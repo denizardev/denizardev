@@ -20,6 +20,7 @@ Na área da tecnolgia e das ciências exatas, estudei desde a física até os si
 hoje atuo nas linguagens javascript e python.Tenho a proatividade como traço constante nas tarefas profissionais e do dia a dia,
  trabalho bem em equipe e sou atencioso aos desafios. 
 ## Atividade recente
+- Cesar School - NExT 2024.2
 - Santander Bootmcamp 2024 - web backend
 - Santander Bootcamp 2024 - IA GENERATIVA 
 
