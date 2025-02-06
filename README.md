@@ -1,78 +1,47 @@
-# 👨‍💻 Olá, me chamo Denizard
-
-## Linguagens de Programação e Tecnologias
-
--
--
--
--
--
--
--
--
--
--
+# Olá, eu sou [Seu Nome]! 👋
 
 ## Sobre Mim
 
-```markdown
-Imerso no mundo da arte e da tecnologia, minha experiência mescla essas duas áreas de forma predominante.
-Multinstrumentista autodidata, toco, componho e produzo músicas, possuindo um acervo de dezenas de composições autorais.
+👨‍💻 Atualmente, estou estudando **Python** com foco em **QA (Quality Assurance)** e tenho um grande interesse em **Ciência de Dados**. 
 
-Na área da tecnologia e das ciências exatas, estudei desde a física até os sistemas de tecnologia e programação.
-Atualmente, sou um profissional de áudio em transição para tecnologia, com foco em Qualidade de Software (QA) e desenvolvimento de APIs.
-Tenho experiência em planejamento, execução e automação de testes funcionais e não funcionais, com conhecimento em frameworks como Pytest e Selenium.
+🎯 Meu objetivo é me tornar um profissional qualificado em testes de software, automação de testes e análise de dados, contribuindo para a entrega de produtos de alta qualidade.
 
-Atuo com Python, SQL e PostgreSQL, além de ferramentas como Docker e metodologias ágeis (Scrum e Kanban).
-Minha vivência anterior em qualidade de áudio trouxe habilidades detalhistas e colaborativas que aplico no desenvolvimento e validação de soluções.
-Busco contribuir para projetos inovadores, entregando sistemas escaláveis e confiáveis.
-```
+## Habilidades e Interesses
 
-## Experiência Profissional
+Aqui estão algumas das minhas habilidades e áreas de interesse:
 
-- **Gerenciamento e Vendas - Veste Leve (2018 - Atualmente)**
-  - Gerenciamento do ERP (Python)
-  - Marketing Digital
-  - Vendas
-- **Oliveira Imóveis LTDA (2020 - 2024)**
-  - Avaliação de preço de mercado
-  - Organização do processo de compra e venda de imóveis
-  - Marketing Digital
-- **Lionbridge (2020 - 2021)**
-  - Teste de usabilidade - web [Selenium]
-- **SESC (2020 - 2023)**
-  - Composição de trilha e sound design
-  - Mixagem e Masterização
-  - Monitoramento do Som
-- **Âmago Ímã (2018 - Atualmente)**
-  - Banda de Jazz Fusion Recifense
-  - Composição de trilha para games
-  - Mixagem e Masterização para games
-  - Edição de vídeo
-  - Sonoplasta
-  - Produtor Fonográfico
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Beginner-green?logo=mysql&logoColor=white)  
+![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-Beginner-orange)  
+![Backend](https://img.shields.io/badge/Backend-Intermediate-yellow)  
+![Agile](https://img.shields.io/badge/Agile-Intermediate-brightgreen)  
+![C](https://img.shields.io/badge/C-Intermediate-lightgrey?logo=c&logoColor=white)  
 
-## Formação Acadêmica
 
-- **Física Licenciatura - Unicap (2014 - 2017)**
-- **Análise e Desenvolvimento de Sistemas - FBV - Wyden (2024.1 - 2025.2)**
 
-## Formação Extra
+- **Python**: Minha principal linguagem de programação, com foco em automação de testes e análise de dados.
+- **SQL**: Conhecimento em bancos de dados relacionais e consultas SQL.
+- **Testes Manuais**: Experiência em execução de testes manuais e elaboração de casos de teste.
+- **Backend**: Noções básicas de desenvolvimento backend para entender o funcionamento das aplicações.
+- **Agile**: Familiaridade com metodologias ágeis, como Scrum e Kanban.
 
-- Introdução ao Hardware (Microlins 2016)
-- Escola Saga - Introdução a Game Design
-- CS50 Harvard
-- **Bootcamps**:
-  - Santander Bootcamp Dio (Backend com Java 2024)
-  - Santander Bootcamp 2024 - Web Backend
-  - Santander Bootcamp 2024 - IA Generativa
-  - Cesar School - NExT 2024.2
+## Projetos
 
+Aqui estão alguns dos projetos que estou trabalhando ou já concluí:
+
+- [Projeto 1](https://github.com/denizardev/API.git): API com deploy, feito para um desafio do GenerationBrasil para o curso de AWS em 2024.
+- [Projeto 2](link_do_projeto): Em breve - projeto de monitoramento de população na academia. 
+- [Projeto 3](link_do_projeto): Testes Manuais Exemplos e Exercicios.
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=denizardev&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=denizardev&layout=compact&theme=radical)
 ## Contato
 
-- [LinkedIn](https://linkedin.com/in/denizard-guerra/)
-- [GitHub](https://github.com/denizardev)
-- [Email](mailto\:denizard.oliveira@gmail.com)
-- 📍 Recife - PE
+📫 Você pode me encontrar em:
 
-no caso 
+- [LinkedIn](https://www.linkedin.com/in/denizard-guerra/)
+- [E-mail](mailto:denizard.oliveira@gmail.com)
+
+💬 Sinta-se à vontade para entrar em contato comigo para colaborações, dúvidas ou apenas para trocar uma ideia!
