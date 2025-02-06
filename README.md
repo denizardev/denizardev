@@ -1,6 +1,5 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Denizard! 👋
 
-## Sobre Mim
 
 👨‍💻 Atualmente, estou estudando **Python** com foco em **QA (Quality Assurance)** e tenho um grande interesse em **Ciência de Dados**. 
 
